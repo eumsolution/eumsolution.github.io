@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eumsolution.github.io/sitemap.xml
